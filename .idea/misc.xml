@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_calendar.xml" value="0.16494845360824742" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_chat_view.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_daily_calendar.xml" value="0.125" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_event_edit.xml" value="0.125" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_password.xml" value="0.1" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_rest.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_week_view.xml" value="0.125" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/add_chat_pub.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/add_event_text.xml" value="0.1" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/bbactivity_book_details.xml" value="0.171225937183384" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/bbbook_rv_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/calendar_cell.xml" value="0.125" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/chat_item.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/event_cell.xml" value="0.33" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/event_item.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/history.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/history_menu.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/hour_cell.xml" value="0.5" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/menu/add_event_menu.xml" value="0.1" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/menu/menu_history.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/menu/menu_history_add.xml" value="0.1" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/menu/menu_history_deleteall.xml" value="0.1" />
+        <entry key="..\:/Users/achra/AndroidStudioProjects/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.146" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/activity_daily_calendar.xml" value="0.3375" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/activity_week_view.xml" value="0.3375" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/event_cell.xml" value="0.3375" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/hour_cell.xml" value="0.3375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

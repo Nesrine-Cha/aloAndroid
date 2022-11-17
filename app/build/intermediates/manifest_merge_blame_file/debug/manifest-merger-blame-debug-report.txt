@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="codewithcal.au.calendarappexample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:8:5-56:19
+15        android:allowBackup="true"
+15-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] C:\Users\achra\.gradle\caches\transforms-3\7665d3ff34a382445f9264fa4f98c521\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:10:9-43
+20        android:label="PrioKid"
+20-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:11:9-32
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.PrioKid1" >
+24-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:14:9-46
+25        <activity
+25-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:15:9-17:40
+26            android:name="codewithcal.au.calendarappexample.ChatViewActivity"
+26-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:16:13-45
+27            android:exported="false" />
+27-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:17:13-37
+28        <activity
+28-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:18:9-20:40
+29            android:name="codewithcal.au.calendarappexample.RestActivity"
+29-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:19:13-41
+30            android:exported="false" />
+30-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:20:13-37
+31        <activity
+31-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:21:9-23:40
+32            android:name="codewithcal.au.calendarappexample.PasswordActivity"
+32-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:22:13-45
+33            android:exported="false" />
+33-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:23:13-37
+34        <activity
+34-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:24:9-26:40
+35            android:name="codewithcal.au.calendarappexample.books.BookViewActivity"
+35-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:25:13-51
+36            android:exported="false" />
+36-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:26:13-37
+37        <activity
+37-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:27:9-29:40
+38            android:name="codewithcal.au.calendarappexample.books.BookDetails"
+38-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:28:13-46
+39            android:exported="false" />
+39-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:29:13-37
+40        <activity
+40-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:30:9-32:40
+41            android:name="codewithcal.au.calendarappexample.LoginActivity"
+41-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:31:13-42
+42            android:exported="false" />
+42-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:32:13-37
+43        <activity
+43-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:33:9-35:40
+44            android:name="codewithcal.au.calendarappexample.HistoryActivity"
+44-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:34:13-44
+45            android:exported="false" />
+45-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:35:13-37
+46        <activity
+46-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:36:9-38:40
+47            android:name="codewithcal.au.calendarappexample.AddChatActivity"
+47-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:37:13-44
+48            android:exported="false" />
+48-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:38:13-37
+49        <activity
+49-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:40:9-48:20
+50            android:name="codewithcal.au.calendarappexample.MainActivity"
+50-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:41:13-41
+51            android:exported="true" >
+51-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:42:13-36
+52            <intent-filter>
+52-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:43:13-47:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:44:17-69
+53-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:44:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:46:17-77
+55-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:46:27-74
+56            </intent-filter>
+57        </activity>
+58        <activity
+58-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:49:9-51:39
+59            android:name="codewithcal.au.calendarappexample.DailyCalendarActivity"
+59-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:50:13-50
+60            android:exported="true" />
+60-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:51:13-36
+61        <activity android:name="codewithcal.au.calendarappexample.EventEditActivity" />
+61-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:52:9-55
+61-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:52:19-52
+62        <activity android:name="codewithcal.au.calendarappexample.WeekViewActivity" />
+62-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:53:9-54
+62-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:53:19-51
+63        <activity android:name="codewithcal.au.calendarappexample.CalendarViewActivity" />
+63-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:54:9-58
+63-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:54:19-55
+64        <activity android:name="codewithcal.au.calendarappexample.AddEditEventHistoryActivity" />
+64-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:55:9-65
+64-->C:\Users\achra\AndroidStudioProjects\CalendarTutorialAndroidStudio-DailyCalendar\app\src\main\AndroidManifest.xml:55:19-62
+65
+66        <provider
+66-->[com.squareup.picasso:picasso:2.71828] C:\Users\achra\.gradle\caches\transforms-3\df08f93d42475bf032e4e3fdde4909ca\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+67            android:name="com.squareup.picasso.PicassoProvider"
+67-->[com.squareup.picasso:picasso:2.71828] C:\Users\achra\.gradle\caches\transforms-3\df08f93d42475bf032e4e3fdde4909ca\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+68            android:authorities="codewithcal.au.calendarappexample.com.squareup.picasso"
+68-->[com.squareup.picasso:picasso:2.71828] C:\Users\achra\.gradle\caches\transforms-3\df08f93d42475bf032e4e3fdde4909ca\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+69            android:exported="false" />
+69-->[com.squareup.picasso:picasso:2.71828] C:\Users\achra\.gradle\caches\transforms-3\df08f93d42475bf032e4e3fdde4909ca\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+70
+71        <service
+71-->[androidx.room:room-runtime:2.4.3] C:\Users\achra\.gradle\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+72            android:name="androidx.room.MultiInstanceInvalidationService"
+72-->[androidx.room:room-runtime:2.4.3] C:\Users\achra\.gradle\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+73            android:directBootAware="true"
+73-->[androidx.room:room-runtime:2.4.3] C:\Users\achra\.gradle\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+74            android:exported="false" />
+74-->[androidx.room:room-runtime:2.4.3] C:\Users\achra\.gradle\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+75
+76        <provider
+76-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\achra\.gradle\caches\transforms-3\4f9159c17c05e344abd44789793ebc02\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+77            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+77-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\achra\.gradle\caches\transforms-3\4f9159c17c05e344abd44789793ebc02\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+78            android:authorities="codewithcal.au.calendarappexample.lifecycle-process"
+78-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\achra\.gradle\caches\transforms-3\4f9159c17c05e344abd44789793ebc02\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+79            android:exported="false"
+79-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\achra\.gradle\caches\transforms-3\4f9159c17c05e344abd44789793ebc02\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+80            android:multiprocess="true" />
+80-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\achra\.gradle\caches\transforms-3\4f9159c17c05e344abd44789793ebc02\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+81    </application>
+82
+83</manifest>

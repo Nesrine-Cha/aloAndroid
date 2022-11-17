@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\menu_menu_history_add.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\menu\\menu_history_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_bbactivity_book_details.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\bbactivity_book_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_history_menu.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\history_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_add_event_text.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\add_event_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_bbbook_rv_item.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\bbbook_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_event_cell.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\event_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_hour_cell.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\hour_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_password.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_event_item.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\event_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\menu_menu_history_deleteall.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\menu\\menu_history_deleteall.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_chat_item.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\drawable_ic_baseline_menu_book_24.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\drawable\\ic_baseline_menu_book_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_daily_calendar.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_daily_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_event_edit.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_event_edit.xml"
+    },
+    {
+        "merged": "codewithcal.au.calendarappexample.app-merged_res-19:/menu_menu.xml.flat",
+        "source": "codewithcal.au.calendarappexample.app-main-21:/menu/menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_chat_view.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_chat_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_week_view.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_week_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_bbactivity_main_books.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\bbactivity_main_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_calendar_cell.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\calendar_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\drawable_fimmme.PNG.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\drawable\\fimmme.PNG"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_add_chat_pub.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\add_chat_pub.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_rest.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_rest.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\drawable_ic_baseline_save_24.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\drawable\\ic_baseline_save_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-merged_res-19:\\layout_history.xml.flat",
+        "source": "C:\\Users\\achra\\.gradle\\daemon\\7.3.3\\codewithcal.au.calendarappexample.app-main-21:\\layout\\history.xml"
+    }
+]

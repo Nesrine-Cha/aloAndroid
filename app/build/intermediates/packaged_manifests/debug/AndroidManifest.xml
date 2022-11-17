@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="codewithcal.au.calendarappexample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="PrioKid"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.PrioKid1" >
+        <activity
+            android:name="codewithcal.au.calendarappexample.ChatViewActivity"
+            android:exported="false" />
+        <activity
+            android:name="codewithcal.au.calendarappexample.RestActivity"
+            android:exported="false" />
+        <activity
+            android:name="codewithcal.au.calendarappexample.PasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name="codewithcal.au.calendarappexample.books.BookViewActivity"
+            android:exported="false" />
+        <activity
+            android:name="codewithcal.au.calendarappexample.books.BookDetails"
+            android:exported="false" />
+        <activity
+            android:name="codewithcal.au.calendarappexample.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="codewithcal.au.calendarappexample.HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name="codewithcal.au.calendarappexample.AddChatActivity"
+            android:exported="false" />
+        <activity
+            android:name="codewithcal.au.calendarappexample.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="codewithcal.au.calendarappexample.DailyCalendarActivity"
+            android:exported="true" />
+        <activity android:name="codewithcal.au.calendarappexample.EventEditActivity" />
+        <activity android:name="codewithcal.au.calendarappexample.WeekViewActivity" />
+        <activity android:name="codewithcal.au.calendarappexample.CalendarViewActivity" />
+        <activity android:name="codewithcal.au.calendarappexample.AddEditEventHistoryActivity" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="codewithcal.au.calendarappexample.com.squareup.picasso"
+            android:exported="false" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="codewithcal.au.calendarappexample.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/MENU"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="MENU"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/books"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Item 1"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/chats"
+        android:icon="@android:drawable/stat_notify_chat"
+        android:title="chat"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/item1"
+
+        android:title="Historique Events"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/Retour"
+        android:icon="@drawable/abc_vector_test"
+        android:title="Retour"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/item2"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item3"
+        android:title="Item 3"
+        app:showAsAction="never">
+
+        <menu>
+
+            <item
+                android:id="@+id/subitem1"
+                android:title="WeeklyView" />
+
+            <item
+                android:id="@+id/subitem2"
+                android:title="DailyView" />
+
+        </menu>
+
+    </item>
+
+</menu>
